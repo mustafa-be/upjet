@@ -197,6 +197,7 @@ example organization name to be used.
    ```
 
    ```bash
+   > make sure that git >= 2.26.0
    make generate
    ```
 
